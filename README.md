@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/fc-gomail) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/fc-gomail)
 
-Yii 1.1 extension for [HTML Purifier](http://htmlpurifier.org/), extending the 
+[Yii](https://yiiframework.com) 1.1 extension for [HTML Purifier](http://htmlpurifier.org/), extending the 
 default CHtmlPurifier from the framework. It allows to embed HTML/Javascript 
 code from several online services (see the filters directory). You can add your
 own filters by following the code of some of the included.
