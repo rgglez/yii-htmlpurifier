@@ -8,7 +8,7 @@
 [Yii](https://yiiframework.com) 1.1 extension for [HTML Purifier](http://htmlpurifier.org/), extending the 
 default CHtmlPurifier from the framework. It allows to embed HTML/Javascript 
 code from several online services (see the filters directory). You can add your
-own filters by following the code of some of the included.
+own filters by following the code of some of the included filters.
 
 ## Usage
 
